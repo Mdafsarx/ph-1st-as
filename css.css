@@ -73,9 +73,12 @@ font-weight: 300;
 
 }
 
-.off-65{
-    
+/* mid night party style */
 
-
+#party-background-img{
+background-image: url("./resources/party.png");
+max-width: 90%;
+margin: 30px auto;
+height:570px;
 }
 
