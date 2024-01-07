@@ -1,0 +1,81 @@
+/*  */
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
+*{font-family: 'Merriweather', serif;}
+
+#background-img-header{
+background-image: url(./resources/Banner\ Image.png);
+max-width: 89%;
+margin: 20px auto;
+height: 570px;
+border-radius: 16px;
+}
+.happy-new-year-title{
+padding-top: 180px;
+
+text-align: center;
+}
+
+/*  */
+.common-h4{color:black;
+
+    font-size: 32px;
+
+    font-weight: 300;}
+
+
+/*  */
+
+.common-h1{font-weight: 900;
+    font-size: 60px;
+    color: black;
+    margin-top: 20px;
+}
+/*  */
+
+
+
+
+
+/* main  */
+
+/* 65% 0ff */
+
+#red-65{
+color: #F00;
+/* text-align: center; */
+font-size: 65px;
+font-weight: 500;
+
+}
+
+#red-p{
+
+    color: #F00;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+#section-65  img{
+    height: 400px;
+    width: 500px;
+}
+
+#section-65{
+    text-align: center;
+    
+}
+.h4-65{
+font-size: 30px;
+font-weight: 300;
+
+}
+
+.off-65{
+    
+
+
+}
+
