@@ -85,12 +85,16 @@ border-radius: 14px;
 
 .party-title{
     display: flex;
-    
+    justify-content: center;
+    align-items: center;
 }
 
 
 
+.party-info1{
+padding: 0px 59px 0px 59px;
 
+}
 
 
 
@@ -99,8 +103,8 @@ border-radius: 14px;
     color: #FFF;
     font-size: 50px;
     font-weight: 900;
-    line-height: 88px; /* 137.5% */
-    letter-spacing: 7.04px;
+    line-height: 1em; /* 137.5% */
+    letter-spacing: 5.04px;
 
 }
 
@@ -109,4 +113,45 @@ border-radius: 14px;
 font-size: 18px;
 font-weight: 400;
 line-height: 1em; /* 166.667% */
+width: 80%;
 }
+.join-now{
+margin: 60px 0px 0px 90px;
+background:none;
+border: none;
+color: white;
+font-size: 17px;
+
+}
+.party-info2{
+    margin: 35px 30px 0px 0px;
+}
+
+
+.join-now:hover{
+
+    color: #F00;
+    border: 3px solid wheat;
+}
+/* place DATE TIME SECTION */
+
+.place-date-time{
+    max-width: 89%;
+    margin: 100px auto;
+background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);;
+text-align: center;
+height: 150px;
+padding-top: 140px;
+border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
