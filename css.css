@@ -68,8 +68,8 @@ font-weight: 500;
     
 }
 .h4-65{
-font-size: 30px;
-font-weight: 300;
+font-size: 33px;
+font-weight: 320;
 
 }
 
@@ -78,7 +78,7 @@ font-weight: 300;
 #party-background-img{
 background-image: url("./resources/party.png");
 max-width: 89%;
-margin: 30px auto;
+margin: 80px auto;
 height:550px;
 border-radius: 14px;
 background-repeat: no-repeat;
@@ -190,7 +190,7 @@ border-radius: 20px ;
 
 
 .title-rectangle > .title {
-width: 77%;
+width: 70%;
 margin: 70px auto;
 }
 
@@ -199,8 +199,8 @@ margin: 70px auto;
 }
 .rectangle-line1-2{
 padding-left: 19px;
-height: 370px;
-width: 370px;
+height: 340px;
+width: 340px;
 padding-bottom: 25px;
 
 }
@@ -225,15 +225,38 @@ border-radius: 18px;
 
 }
 
+/* Subscribe Newsletter section */
 
+.Subscribe-Newsletter{
+    max-width: 80%;
+    margin: 120px auto;
+    height: 450px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    text-align: center;
+    padding-top: 35px;
+    
 
+}
+/* dua some work */
+.Subscribe-Newsletter input[type="email"]{
+padding: 18px;
+border-radius: 20px 0px 0px 20px;
+border: none;
+outline: none;
+padding-right: 90px;
+}
 
+#Subscribe-button{
 
+padding:18px;
+border-radius: 0px 20px 20px 0px;
+background-color: red;
+color: #FFF;
+border: none;
+}
 
-
-
-
-
+/* due some work */
 
 
 
