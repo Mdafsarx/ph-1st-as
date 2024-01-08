@@ -162,7 +162,7 @@ background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.
 text-align: center;
 height: 140px;
 padding-top: 110px;
-
+line-height: 2em;
 border-radius: 20px ;
 }
 
