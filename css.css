@@ -272,9 +272,15 @@ border: none;
     color: #FFF;
     justify-content: space-around;
     text-align: left;
+    padding: 100px;
     
 }
 .footer-font{
-font-size: 18px;
+font-size: 21px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.footer-img-section{
+text-align: center;
+padding: 45px 0px 45px 0px;
+
 }
