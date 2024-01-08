@@ -29,7 +29,7 @@ text-align: center;
 /*  */
 
 .common-h1{font-weight: 900;
-    font-size: 60px;
+    font-size: 70px;
     color: black;
     
 }
@@ -135,23 +135,52 @@ font-size: 17px;
 }
 /* place DATE TIME SECTION */
 
+
+
 .place-date-time{
     max-width: 89%;
     margin: 100px auto;
 background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);;
 text-align: center;
-height: 150px;
-padding-top: 140px;
-border-radius: 5px;
+height: 140px;
+padding-top: 110px;
+
+border-radius: 20px ;
+}
+
+.span-red{
+    color: #F00;
+    
+}
+
+/* coming soon section */
+
+.border-radius{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 85%;
+    margin: 200px auto;
+}
+
+
+.coming-soon-radius-2024 > #img1{
+    border: 5px solid red;
+    border-radius: 550px;
+    padding: 10px 15px 10px 15px ;
+}
+
+.coming-soon-radius-2024{
+
+    text-align: left;
+}
+
+.for-mid-padding{
+    padding: 0px 174px 0px 70px;
 }
 
 
 
-
-
-
-
-
-
+/*  */
 
 
