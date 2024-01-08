@@ -197,6 +197,18 @@ border-radius: 20px ;
     padding: 0px 174px 0px 70px;
 }
 
+/* holidays sale 50% section */
+
+.holidays-50-title{
+text-align: center;
+line-height: 1.8em;
+}
+
+
+
+
+
+
 
 
 /*rectangle and title section  */
@@ -254,7 +266,7 @@ border-radius: 18px;
     
 
 }
-/* dua some work */
+
 .Subscribe-Newsletter input[type="email"]{
 padding: 18px;
 border-radius: 20px 0px 0px 20px;
@@ -272,8 +284,10 @@ color: #FFF;
 border: none;
 }
 
-/* due some work */
+
 /* header section */
+
+
 #footer-section{
     background: #070211;
 
