@@ -3,7 +3,9 @@
 
 
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
-*{font-family: 'Merriweather', serif;}
+*{font-family: 'Merriweather', serif;
+margin: 0px;
+}
 
 #background-img-header{
 background-image: url(./resources/Banner\ Image.png);
@@ -48,11 +50,11 @@ color: #F00;
 /* text-align: center; */
 font-size: 65px;
 font-weight: 500;
-
+margin-top: 80px;
 }
 
 #red-p{
-
+margin:50px 0px 10px 0px;
     color: #F00;
     font-size: 18px;
     font-weight: 500;
@@ -258,34 +260,15 @@ border: none;
 
 /* due some work */
 /* header section */
+#footer-section{
+    background: #070211;
 
-.footer-det{
-    background-color: #070211;
 }
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.footer-det{
+    display: flex;
+    color: #FFF;
+    justify-content: space-around;
+}
